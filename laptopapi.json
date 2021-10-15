@@ -6,4 +6,11 @@
         "retailer" : "https://www.amazon.in/HP-15-6-inch-5-4600H-Windows-15-en0002AX/dp/B08CGGRHLH",
         "spec site": "https://laptopmedia.com/in/laptop-specs/hp-omen-15-755/"
     }  
+    {
+        "id": 2,
+       "laptop name" : "HP Pavilion Ryzen 5 Hexa Core 5600H",
+        "brand" : "HP",
+        "retailer" : "https://www.flipkart.com/hp-pavilion-ryzen-5-hexa-core-5600h-8-gb-512-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-144-hz-15-ec2004ax-gaming-laptop/p/itm98c94bbf9bc20?pid=COMG5GZXPWMGTNWS&lid=LSTCOMG5GZXPWMGTNWS2SZL9C&marketplace=FLIPKART&q=hp+pavilion&store=6bo%2Fb5g&spotlightTagId=BestsellerId_6bo%2Fb5g&srno=s_1_1&otracker=AS_QueryStore_HistoryAutoSuggest_1_5_na_na_na&otracker1=AS_QueryStore_HistoryAutoSuggest_1_5_na_na_na&fm=SEARCH&iid=0a9562fd-735e-4cb8-8a9a-a5159723a990.COMG5GZXPWMGTNWS.SEARCH&ppt=sp&ppn=sp&ssid=7zd7gt5olc0000001634283469850&qH=aa80261108f076e0",
+        "spec site": "https://laptopmedia.com/in/review/hp-pavilion-15-15-eg0000-review-an-ordinary-device-for-extraordinary-people/" 
+    }
 ]
